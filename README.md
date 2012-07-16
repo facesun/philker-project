@@ -1,4 +1,4 @@
-philker-project
+PhilKer Hub
 ===============
 
-Just another watch repository
+Just another repository to watch
